@@ -1,4 +1,4 @@
-# Tinder Auto-Liker Script
+# Auto Tinder Swiping Bot
 
 This script automates the process of liking profiles on Tinder using Selenium with Python. It logs into Tinder using Facebook credentials, handles pop-ups, and performs automatic likes.
 
